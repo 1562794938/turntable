@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/luck.png</file>
+    </qresource>
+</RCC>
